@@ -1,5 +1,5 @@
 import { TypeAnimation } from 'react-type-animation';
-import img from '../../src/assets/profile.png'
+import img from '../../src/assets/profile1.png'
 const Hero = () => {
     const social_media=[
         'logo-instagram',
@@ -14,7 +14,7 @@ const Hero = () => {
 
            
            <div className='flex-1 flex items-center justify-center h-full'>
-                <img src={img} alt=""  className='md:w-11/12 mt-10 md:mt-0 h-1/2 object-cover rounded-full rounded-e-full border-4 border-cyan-600 shadow-lg'/>
+                <img src={img} alt=""  className='md:w-9/120 mt-10 md:mt-0 h-1/2 object-cover rounded-full rounded-e-full border-4 border-cyan-600 shadow-lg'/>
            </div>
            <div className='flex-1'>
                 <div className='md:text-left text-center'>

@@ -18,7 +18,7 @@ const About = () => {
                 <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto">
                     <div className='p-2'>
                         <div className="text-gray-300 my-3">
-                            <p className='text-justify leading-7'>
+                            <p className='text-justify leading-7 mt-6'>
                               Hello, I'm Md Rafikul islam , a passionate and dedicated front-end web developer. I am a student in inter second year running. My journey into the world of programming began when I discovered my love for creating visually appealing and interactive websites. To further enhance my skills, I enrolled in the Programming Hero Course, where I completed the web development curriculum and obtained a certificate. This course provided me with comprehensive knowledge and practical experience, enabling me to tackle real-world projects with confidence. When I'm not coding,you can find me indulging in my hobbies. I am an avid Video game enthusiast. I'm also a big fan of anime series and appreciate the artistry and storytelling in this medium. I am excited to embark on new project and collaborate with like-minded individuals. Feel free to browse through my portfolio and get in touch with me if you have any inquiries or if your'd like to discuss opportunities.
                             </p>
                             <div className="flex mt-10 items-center gap-7">
